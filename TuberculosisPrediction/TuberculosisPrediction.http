@@ -1,0 +1,6 @@
+@TuberculosisPrediction_HostAddress = http://localhost:5174
+
+GET {{TuberculosisPrediction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
